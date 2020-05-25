@@ -18,3 +18,5 @@ Most everything should be in the standard places.
 To compile all the sources use the "ant" utility available at www.apache.org/jakarta
 
 Have fun!
+
+Don Corley
